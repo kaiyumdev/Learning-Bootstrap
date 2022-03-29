@@ -24,3 +24,9 @@
   width: 100vw;
 }
 /* header section end */
+ 
+/* contact section */
+.input-message{
+padding:5px 330px 400px 5px; 
+}
+/* contact section end */
